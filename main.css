@@ -12,6 +12,8 @@ div {
 
 #red {
   border-top-color: #f00;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #orange {
